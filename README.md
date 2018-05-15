@@ -124,7 +124,8 @@ sub removeDup {
    return @list ;
    }
 
-exit 0 ;```
+exit 0 ;
+```
 
 # INTERNALS
 The netlist is parsed in two simple phases. First phase requires
